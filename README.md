@@ -1,7 +1,7 @@
 
 ![Regnum AMA with DxSale](https://i.ibb.co/JQhfnSV/ama-cmc.png)
 
-![Regnum](https://i.ibb.co/F4NwV80/m4.png)
+![Regnum](https://i.ibb.co/Mp8VnJQ/m33.jpg)
 
 # What Is REGNUM (REG)?
 Kingdom Metaverse Game Powered By Binance Smart Chain
