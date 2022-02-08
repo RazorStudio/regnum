@@ -1,6 +1,8 @@
 
 ![Regnum AMA with DxSale](https://i.ibb.co/JQhfnSV/ama-cmc.png)
 
+![Regnum](https://i.ibb.co/F4NwV80/m4.png)
+
 # What Is REGNUM (REG)?
 Kingdom Metaverse Game Powered By Binance Smart Chain
 
@@ -21,13 +23,13 @@ REGNUM will launch its mainnet on February 12, 2022 with 10 billion REG tokens c
 # Where Can I Buy REGNUM (REG)?
 Public Sale is coming. Everyone can buy. Be ready for the best price you never had.
 
-Public-sale Platform: https://dx.app/app/v3/defipresale?saleID=1996&chain=BSC
-Open Time: 12 Feb 2022 at 18:00 UTC
-End Time: 17 Feb 2022 at 18:00 UTC
-HardCap: 2000 BNB
-Softcap: 1000 BNB
-Minimum Contribution: 0.1 BNB
-Maximum Contribution: 5 BNB
+- Public-sale Platform: https://dx.app/app/v3/defipresale?saleID=1996&chain=BSC
+- Open Time: 12 Feb 2022 at 18:00 UTC
+- End Time: 17 Feb 2022 at 18:00 UTC
+- HardCap: 2000 BNB
+- Softcap: 1000 BNB
+- Minimum Contribution: 0.1 BNB
+- Maximum Contribution: 5 BNB
 
 ------
 
