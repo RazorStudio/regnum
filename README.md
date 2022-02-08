@@ -31,6 +31,9 @@ Public Sale is coming. Everyone can buy. Be ready for the best price you never h
 - Minimum Contribution: 0.1 BNB
 - Maximum Contribution: 5 BNB
 
+
+![NFT Collections](https://i.ibb.co/zN2SJH3/img-2.jpg)
+
 ------
 
 # Social
